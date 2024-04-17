@@ -1,3 +1,5 @@
 nombre y appellido: Lucas Lopez
 
 legajo: fai 3327
+
+https://github.com/lucasarg2023/SimulacroPrimerParcial2024
